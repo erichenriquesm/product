@@ -25,7 +25,5 @@ nav {
     }
   }
 }
-.table-header{
-    padding: 10px !important;
-}
+
 </style>
