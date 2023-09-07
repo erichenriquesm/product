@@ -9,7 +9,6 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
@@ -24,6 +23,14 @@ nav {
       color: #42b983;
     }
   }
+}
+
+.table-header, .table-row{
+  padding: 8px;
+}
+
+.table-row{
+  border: 1px solid rgba(0, 0, 0, 0.073);
 }
 
 </style>
